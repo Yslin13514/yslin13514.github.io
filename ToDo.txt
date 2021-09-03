@@ -1,0 +1,16 @@
+[2021.09.01]
+
+1. Customize my domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+
+
+2. Choose a template
+- Marvin
+- Yi-Chia
+
+
+3. Add my website link to:
+- Facebook
+- LinkedIn
+- ResearchGate
+- Where else?
