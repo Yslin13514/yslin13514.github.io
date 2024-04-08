@@ -127,9 +127,16 @@ main .nosepig{
 }
 main .section-title{
 	padding: 30px 0 15px 0;
+    font-size: 25px;
+	font-weight: 600;
+}
+
+main .section-title2{
+	padding: 30px 0 15px 0;
     font-size: 20px;
 	font-weight: 600;
 }
+
 main .publications{
 	padding: 0 0 0 40px;
 	text-indent: -40px;
