@@ -88,6 +88,19 @@ nav{
 	-webkit-animation: hoverFading 0.5s; /*Safari and Chrome:*/
 	animation: hoverFading 0.5s;
 }
+
+/* Change color for specific hyperlinks */
+        .custom-link {
+            color: yellow; /* Change color to green */
+            text-decoration: none; /* Remove the underline */
+        }
+
+        /* Optional: Change color on hover */
+        .custom-link:hover {
+            color: green; /* Change color to blue on hover */
+            text-decoration: underline; /* Add underline on hover */
+        }
+
 nav .button{
     line-height: 70px;
     font-size: 20px;
